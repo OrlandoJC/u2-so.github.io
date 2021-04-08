@@ -1,0 +1,28 @@
+body {
+    background-image: url(../img/fondo.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.titulo {
+    width: 100%;
+    background: white;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 40px 10px;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 20px;
+}
+
+#principal img {
+    border-color: transparent;
+    border-radius: 0;
+    background: transparent;
+}
+
+.card-img-overlay {
+    margin-left: 15px;
+}

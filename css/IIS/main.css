@@ -1,0 +1,44 @@
+.timeline-item-1 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_13h32_49.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-2 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_13h34_26.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-3 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_13h41_38.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-4 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_13h46_16.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-5 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_13h54_55.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-6 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_13h59_20.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-7 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_14h09_45.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-8 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_14h09_16.png") center center no-repeat;
+    background-size: cover;
+}
+
+.timeline-item-9 .timeline-img-header {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("../../img/ISS/2021-04-06_14h32_37.png") center center no-repeat;
+    background-size: cover;
+}
