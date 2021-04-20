@@ -6,6 +6,9 @@ body {
     background-size: cover;
 }
 
+ul {
+    list-style: none;
+}
 .titulo {
     width: 100%;
     background: white;
